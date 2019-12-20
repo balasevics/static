@@ -6,7 +6,7 @@
 package staticvezba;
 
 /**
- *
+ * OVDE MENJAM IZ GITA
  * @author INTEL I7-8700
  */
 public class Helper {
