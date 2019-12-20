@@ -10,7 +10,7 @@ package staticvezba;
  * @author INTEL I7-8700
  */
 public class MojaGreska extends Exception{
-    
+    //Ovo je nesto novo
     public MojaGreska(String tekst){
     
     super(tekst);
